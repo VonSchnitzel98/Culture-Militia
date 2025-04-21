@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "MILIS_R@CUSTOM_UNITS"
+msgstr "Constable^m"
+
+msgid "MILIS_B@CUSTOM_UNITS"
+msgstr "Camp Follower^f"
+
+msgid "MILIS_I@CUSTOM_UNITS"
+msgstr "Reservist^m"
+
+msgid "MILIS_H@CUSTOM_UNITS"
+msgstr "Twilightwatch^f"
+
+msgid "MILIS_P@CUSTOM_UNITS"
+msgstr "Lookout^m"
+
+msgid "MILIS_O@CUSTOM_UNITS"
+msgstr "Conscript^m"
+
+msgid "MILIS_T@CUSTOM_UNITS"
+msgstr "Pilgrim^m"
+
+msgid "MILIS_ROU@CUSTOM_UNITS"
+msgstr "Henchman^m"
+
+msgid "MILIS_IMP@CUSTOM_UNITS"
+msgstr "Vigilante^m"
+
+msgid "MILIS_D@CUSTOM_UNITS"
+msgstr "Thrall^m"
+
+msgid "MILIS_M@CUSTOM_UNITS"
+msgstr "Artificer^m"
+
+msgid "MILIS_HG@CUSTOM_TRIT"
+msgstr "Home Guard"
+
+msgid "MILIS_MRGARRISON@CUSTOM_TRIT"
+msgstr "Garrison"
+
+msgid "MILIS_MRGARRISONHOUSE@BUIELDING"
+msgstr "Guardhouse"
+
+msgid "MILORG@TRIT"
+msgstr "Levy Organizer"
+
+msgid "WEKLIV@TRIT"
+msgstr "Disposable Weakling"
+
+msgid "MAACUNT@TRIT"
+msgstr "Artificer"
+
+msgid "AHGY@TRIT"
+msgstr "Martial Training"
+
+msgid "FLM@ABILTY"
+msgstr "Suppressive Fire"
+
+msgid "MOBMILITZ@TRIT"
+msgstr "Mobilized Militia"
+
+msgid "MILITZ@TRIT"
+msgstr "Territorial"
+
+msgid "TERATORIAL@E01@TRITDSCRIPT"
+msgstr "When inside friendly domain this unit get +1 {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL.ResistanceConcept.Hyperlink}."
+
+msgid "HOMAGURAD@E01@TRITDSCRIPT"
+msgstr "When Inside friendly city domain this unit get:[bulletlist][bullet/]+20% damage.[bullet/]+20 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -30%.[br/][br/]When inside enemy city domain:[bulletlist][bullet/]-30% damage.[bullet/]-30 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -30%."
+
+msgid "MOBACONSCRIPT@TRITDSCRIPT"
+msgstr "Unit suffer no negative effects from {GLOBAL.PROPERTIES.HOMGUA.Hyperlink} when inside enemy city domain."
+
+msgid "MARTIALATRAINING@TRITDSCRIPT"
+msgstr "Unit gets extra bonuses with every rank:[bulletlist][bullet/] +3<<m:{GLOBAL.HitPointConcept.Hyperlink}>>[bullet/]+1{GLOBAL.PhysicalDamageConcept.Hyperlink}."
+
+msgid "MANAACOUNTENT@TRITDSCRIPT"
+msgstr "Units in this army requier 10% less {GLOBAL.ManaConcept.Hyperlink} upkeep. This bonus stacks."
+
+msgid "CAMPFOLOWER@TRITDSCRIPT"
+msgstr "Units regenerate an additional +10<<m:{GLOBAL.HitPointConcept.Hyperlink}>> on the strategic map. This bonus stacks."
+
+msgid "GRAISONA@E01@TRITDSCRIPT"
+msgstr "All racial tier I units get:[bulletlist][bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -40%.[bullet/]1+ {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL.ResistanceConcept.Hyperlink}.[/bulletlist]When Inside friendly city domain racial tier I unit without {GLOBAL.PROPERTIES.HOMGUA.Hyperlink} get:[bulletlist][bullet/]+20% damage.[bullet/]+20 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "LEVEYORGANZER@TRITDSCRIPT"
+msgstr "Units in this army with {GLOBAL.PROPERTIES.HOMGUA.Hyperlink} get:[bulletlist][bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]+2{GLOBAL.PhysicalDamageConcept.Hyperlink}."
+
+msgid "RESARAVISTA@TRITDSCRIPT"
+msgstr "When a friendly unit dies, this unit get {GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}, {GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink} and {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}."
+
+msgid "WEAKH@TRITDSCRIPT"
+msgstr "When this unit dies all friendly units with {GLOBAL.PROPERTIES.CULL_THE_WEAK.Hyperlink} gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and +10 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "FIREMUSKERT@E01@TRITDSCRIPT"
+msgstr "Deal damage to target unit."
+
+msgid "VOLTORB@E01@TRITDSCRIPT"
+msgstr "Volatile Orbs"
+
+msgid "CALLC@E01@SPELLNAMR"
+msgstr "Call Constable"
+
+msgid "CALLCF@E01@SPELLNAMR"
+msgstr "Call Camp Follower"
+
+msgid "CALLR@E01@SPELLNAMR"
+msgstr "Call Reservist"
+
+msgid "CALT@E01@SPELLNAMR"
+msgstr "Call Twilightwatch"
+
+msgid "CALLLO@E01@SPELLNAMR"
+msgstr "Call Lookout"
+
+msgid "CALLCO@E01@SPELLNAMR"
+msgstr "Call Conscript"
+
+msgid "CALLPIL@E01@SPELLNAMR"
+msgstr "Call Pilgrim"
+
+msgid "CALLH@E01@SPELLNAMR"
+msgstr "Call Henchman"
+
+msgid "CALV@E01@SPELLNAMR"
+msgstr "Call Vigilante"
+
+msgid "CALLT@E01@SPELLNAMR"
+msgstr "Call Thrall"
+
+msgid "CALLA@E01@SPELLNAMR"
+msgstr "Call Artificer"
+
+msgid "CALLP@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.PRATISAN.Hyperlink} in the target owned City."
+
+msgid "CALLL@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.TRIBSAMAN.Hyperlink} in the target owned City."
+
+msgid "CALLC@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.CONSCRIPT.Hyperlink} in the target owned City."
+
+msgid "CALLR@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.RESEVERSIST.Hyperlink} in the target owned City."
+
+msgid "CALLPS@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.STEWARD.Hyperlink} in the target owned City."
+
+msgid "CALLPD@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.DAWNWHATC.Hyperlink} in the target owned City."
+
+msgid "CALLPC@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.CLANSMAN.Hyperlink} in the target owned City."
+
+msgid "CALLPT@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.THRALL.Hyperlink} in the target owned City."
+
+msgid "CALLPP@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.MENDICANT.Hyperlink} in the target owned City."
+
+msgid "CALLH@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.THUG.Hyperlink} in the target owned City."
+
+msgid "CALLPV@E01@SPELDISCRIPT"
+msgstr "summon 2 {GLOBAL.UNITS.VIGIL.Hyperlink} in the target owned City."
