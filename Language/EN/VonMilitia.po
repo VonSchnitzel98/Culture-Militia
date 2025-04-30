@@ -79,7 +79,7 @@ msgid "TERATORIAL@E01@TRITDSCRIPT"
 msgstr "When inside friendly domain this unit get +1 {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL.ResistanceConcept.Hyperlink}."
 
 msgid "HOMAGURAD@E01@TRITDSCRIPT"
-msgstr "When inside friendly city domain this unit get:[bulletlist][bullet/]+20% damage.[bullet/]+20 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -30%.[br/][br/]When inside enemy city domain:[bulletlist][bullet/]-30% damage.[bullet/]-30 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -30%."
+msgstr "When inside friendly city domain this unit get:[bulletlist][bullet/]+20% damage.[bullet/]+20 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -30%.[br/][br/]When inside enemy city domain:[bulletlist][bullet/]-30% damage.[bullet/]-30 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]{GLOBAL.UnitUpkeepConcept.Hyperlink} is Increased by +40%."
 
 msgid "MOBACONSCRIPT@TRITDSCRIPT"
 msgstr "Unit suffer no negative effects from {GLOBAL.PROPERTIES.HOMGUA.Hyperlink} when inside enemy city domain."
@@ -176,3 +176,6 @@ msgstr "summon 2 {GLOBAL.UNITS.THUG.Hyperlink} in the target owned City."
 
 msgid "CALLPV@E01@SPELDISCRIPT"
 msgstr "summon 2 {GLOBAL.UNITS.VIGIL.Hyperlink} in the target owned City."
+
+msgid "NEWDISCRIPT@FABLED_HUNTERS@EFFECT@DESCRIPTION"
+msgstr "Start with an extra {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} or {GLOBAL.PROPERTIES.SKIRMISHER.Hyperlink}."
